@@ -6,7 +6,7 @@ Frontend için React + MUI, backend için REST API ( Net Core webapi ) kullanıl
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü](https://i.hizliresim.com/bnf3co3.png)
+![Ekran Görüntüsü](./localhost_5173_.png)
 
   
 ## Bilgisayarınızda Çalıştırın
