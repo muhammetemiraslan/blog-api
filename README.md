@@ -6,7 +6,7 @@ Frontend için React + MUI, backend için REST API ( Net Core webapi ) kullanıl
 
 ## Ekran Görüntüleri
 
-[![Image](https://i.hizliresim.com/bnf3co3.png)](https://hizliresim.com/bnf3co3)
+<a href="https://hizliresim.com/bnf3co3"><img src="https://i.hizliresim.com/bnf3co3.png" alt="Resim Yükle"></a>
 
   
 ## Bilgisayarınızda Çalıştırın
