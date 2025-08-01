@@ -42,6 +42,13 @@ Proje dizinine gidin
   cd api
 ```
 
+Gerekli paketleri yükleyin
+
+```bash
+  dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+  dotnet add package Microsoft.EntityFrameworkCore.Tools
+```
+
 Sunucuyu çalıştırın
 
 ```bash
